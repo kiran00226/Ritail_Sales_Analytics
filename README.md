@@ -145,13 +145,14 @@ The dashboard focuses on important business metrics and provides interactive ana
 The Power BI dashboard file will be available in:
 Dashboard/
 
+
 📊 Dashboard Analysis
 
-## 👥 Customer Analysis Dashboard
+👥 Customer Analysis Dashboard
 
 This dashboard provides an overview of customer behavior and purchasing patterns. It shows key metrics such as total revenue, total orders, total sales, total customers, and total products. It also analyzes new vs returning customers, purchase frequency, customer segments, and customer distribution by city. Interactive filters allow users to explore customer performance based on date, category, store, customer segment, and payment method.
 
-### Dashboard
+Dashboard
 
 <img width="1409" height="800" alt="Customer Analysis Dashboard" src="docs/customer Analysis.png" />
 
