@@ -1,0 +1,36 @@
+store_id,store_name,city,state,store_type,opening_date,manager_name
+1,Lucknow Mall Outlet Store 1,Lucknow,Uttar Pradesh,Mall Outlet,2019-06-06,Vihaan Gupta
+2,Hyderabad Standalone Store 2,Hyderabad,Telangana,Standalone,2021-07-15,Vihaan Joshi
+3,Bengaluru Franchise Store 3,Bengaluru,Karnataka,Franchise,2019-09-09,Arjun Mehta
+4,Indore Flagship Store 4,Indore,Madhya Pradesh,Flagship,2021-05-05,Ayaan Mehta
+5,Agra Flagship Store 5,Agra,Uttar Pradesh,Flagship,2021-06-21,Meera Chopra
+6,Pune Flagship Store 6,Pune,Maharashtra,Flagship,2021-03-30,Krishna Kumar
+7,Ludhiana Flagship Store 7,Ludhiana,Punjab,Flagship,2021-05-27,Kavya Desai
+8,Chennai Flagship Store 8,Chennai,Tamil Nadu,Flagship,2021-07-10,Kritika Patel
+9,Ludhiana Flagship Store 9,Ludhiana,Punjab,Flagship,2021-04-30,Vihaan Bhatt
+10,Ludhiana Franchise Store 10,Ludhiana,Punjab,Franchise,2018-07-10,Ramesh Kapoor
+11,Kanpur Standalone Store 11,Kanpur,Uttar Pradesh,Standalone,2017-10-14,Diya Mehta
+12,Surat Kiosk Store 12,Surat,Gujarat,Kiosk,2020-07-20,Karan Rao
+13,Bengaluru Flagship Store 13,Bengaluru,Karnataka,Flagship,2020-09-27,Deepak Reddy
+14,Ahmedabad Franchise Store 14,Ahmedabad,Gujarat,Franchise,2019-09-24,Aditya Gupta
+15,Agra Standalone Store 15,Agra,Uttar Pradesh,Standalone,2018-10-25,Nikhil Bhatt
+16,Bhopal Flagship Store 16,Bhopal,Madhya Pradesh,Flagship,2016-01-19,Riya Pillai
+17,Bengaluru Flagship Store 17,Bengaluru,Karnataka,Flagship,2022-11-13,Kavya Kapoor
+18,Bhopal Standalone Store 18,Bhopal,Madhya Pradesh,Standalone,2019-04-30,Nikhil Sharma
+19,Kanpur Mall Outlet Store 19,Kanpur,Uttar Pradesh,Mall Outlet,2021-11-07,Ayaan Pillai
+20,Surat Mall Outlet Store 20,Surat,Gujarat,Mall Outlet,2017-10-11,Sanjay Chopra
+21,Patna Flagship Store 21,Patna,Bihar,Flagship,2016-11-12,Suresh Chopra
+22,Ahmedabad Franchise Store 22,Ahmedabad,Gujarat,Franchise,2021-03-03,Riya Malhotra
+23,Nagpur Mall Outlet Store 23,Nagpur,Maharashtra,Mall Outlet,2016-09-10,Sai Reddy
+24,Pune Flagship Store 24,Pune,Maharashtra,Flagship,2020-06-09,Meera Reddy
+25,Mumbai Mall Outlet Store 25,Mumbai,Maharashtra,Mall Outlet,2019-09-13,Divya Bansal
+26,Lucknow Mall Outlet Store 26,Lucknow,Uttar Pradesh,Mall Outlet,2022-09-29,Pooja Bhatt
+27,Delhi Franchise Store 27,Delhi,Delhi,Franchise,2022-08-19,Shreya Chopra
+28,Nagpur Flagship Store 28,Nagpur,Maharashtra,Flagship,2020-05-26,Sanjay Verma
+29,Kolkata Franchise Store 29,Kolkata,West Bengal,Franchise,2016-10-26,Ayaan Agarwal
+30,Hyderabad Flagship Store 30,Hyderabad,Telangana,Flagship,2021-05-10,Ishaan Desai
+31,Kanpur Kiosk Store 31,Kanpur,Uttar Pradesh,Kiosk,2015-04-15,Arjun Patel
+32,Ahmedabad Standalone Store 32,Ahmedabad,Gujarat,Standalone,2018-11-23,Sunita Bansal
+33,Hyderabad Franchise Store 33,Hyderabad,Telangana,Franchise,2020-03-23,Priya Pillai
+34,Ahmedabad Flagship Store 34,Ahmedabad,Gujarat,Flagship,2018-11-04,Pari Pillai
+35,Chennai Kiosk Store 35,Chennai,Tamil Nadu,Kiosk,2015-04-05,Saanvi Joshi
