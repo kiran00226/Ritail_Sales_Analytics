@@ -1,0 +1,25 @@
+# Python
+*.pyc
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
+.env
+
+# Temporary files
+*.tmp
+*.temp
+
+# Power BI backup files
+*.pbix.bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
