@@ -11,7 +11,7 @@ The project uses Python, SQL, and Power BI to clean, analyze, visualize, and gen
 
 ---
 
-## 🎯 Project Objectives
+## 🎯 Project Objective
 
 The main objectives of this project are:
 
@@ -149,100 +149,12 @@ Dashboard/
 
 ## 👥 Customer Analysis Dashboard
 
-This dashboard provides a detailed analysis of customer behavior, customer segments, and purchasing patterns.
+This dashboard provides an overview of customer behavior and purchasing patterns. It shows key metrics such as total revenue, total orders, total sales, total customers, and total products. It also analyzes new vs returning customers, purchase frequency, customer segments, and customer distribution by city. Interactive filters allow users to explore customer performance based on date, category, store, customer segment, and payment method.
 
-### 📌 Key KPIs
+### Dashboard
 
-The dashboard highlights the following key customer-related metrics:
+<img width="1409" height="800" alt="Customer Analysis Dashboard" src="docs/customer Analysis.png" />
 
-- **Total Revenue:** 1.67 Billion
-- **Total Orders:** 29K
-- **Total Sales:** 251K
-- **Total Customers:** 6K
-- **Total Products:** 360
 
-### 📊 Customer Analysis
-
-#### 1. New vs Returning Customers
-
-The donut chart compares new and returning customers.
-
-- **New Customers:** 51.02%
-- **Returning Customers:** 48.98%
-
-The analysis shows that the customer base is almost evenly divided between new and returning customers, with new customers contributing slightly more.
-
-This indicates that the business is continuously acquiring new customers while also maintaining a strong base of returning customers.
-
-#### 2. Purchase Frequency Analysis
-
-The purchase frequency chart categorizes customers into three groups:
-
-- **Medium Frequency:** 3.0K customers
-- **Low Frequency:** 1.7K customers
-- **High Frequency:** 1.3K customers
-
-The highest number of customers falls into the medium-frequency group. This indicates an opportunity to encourage medium-frequency and low-frequency customers to purchase more frequently.
-
-#### 3. AOV by Customer Segment
-
-AOV means **Average Order Value**.
-
-The dashboard compares AOV across different customer segments:
-
-- Regular
-- New
-- Premium
-- VIP
-
-The AOV values are relatively similar across all segments, with the Regular segment showing the highest value.
-
-This indicates that customer segments have comparable average spending levels.
-
-#### 4. Customer Base by City
-
-The city-wise analysis shows the number of customers across different cities.
-
-Cities such as:
-
-- Jaipur
-- Ludhiana
-- Agra
-- Nashik
-- Kolkata
-- Kanpur
-- Indore
-- Chennai
-
-have a strong customer presence.
-
-This information can help the business identify high-customer-density locations and plan targeted marketing campaigns.
-
-### 🎛️ Interactive Filters
-
-The dashboard allows users to filter customer analysis using:
-
-- Date Range
-- Category
-- Store
-- Customer Segment
-- Payment Method
-
-These filters make it possible to perform detailed customer analysis for a specific period, category, store, segment, or payment method.
-
-### 💡 Key Customer Insights
-
-Based on the dashboard:
-
-- The customer base contains a slightly higher proportion of new customers than returning customers.
-- Medium-frequency customers form the largest customer group.
-- High-frequency customers represent a smaller portion of the customer base, creating an opportunity for customer retention strategies.
-- AOV is relatively consistent across customer segments.
-- Several cities have a strong customer base and can be targeted for location-specific marketing.
-- Interactive filters allow management to analyze customer behavior from different business perspectives.
-
-### 📸 Dashboard Preview
-
-![Customer Analysis Dashboard](docs/customer_analysis_dashboard.png)
 
 
