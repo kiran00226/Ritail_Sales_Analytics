@@ -78,6 +78,7 @@ These cleaned files were used for further SQL analysis and Power BI reporting.
 4️⃣ SQL Analysis
 SQL was used to perform business analysis on the cleaned retail sales data.
 The analysis includes:
+
 - Sales analysis
 - Customer analysis
 - Product analysis
@@ -172,6 +173,7 @@ It analyzes areas such as:
 
 ## 📂 Project Structure
 
+```text
 Retail-Sales-Analytics/
 │
 ├── output/
@@ -195,9 +197,12 @@ Retail-Sales-Analytics/
 ├── .gitignore
 └── README.md
 
+
 ⭐ Conclusion
+
 This project demonstrates an end-to-end retail sales analytics workflow, starting from raw data cleaning and preparation to SQL analysis and interactive Power BI visualization.
 The project provides a structured approach to understanding sales performance, customer behavior, product performance, and inventory-related business insights.
+
 
 👩‍💻 Author
 Kiran 
