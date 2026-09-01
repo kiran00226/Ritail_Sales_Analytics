@@ -126,6 +126,49 @@ It analyzes areas such as:
 - Average Order Value (AOV) by customer segment
 - Purchase frequency analysis
 
+🔷 Sales Analysis Dashboard
+
+The Sales Analytics Dashboard focuses on understanding overall sales performance and identifying important sales trends.
+It analyzes areas such as:
+
+- Weekly sales trends
+- Monthly sales trends
+- High Frequency Sales And Category wise average transaction value
+- Comparison of sales performance over time
+- Day-of-week sales patterns
+
+🔷 Product Performance Analysis Dashboard
+
+The Product Performance Analysis Dashboard Provides an overview of product sales, profitability and demand patterns.
+It analyzes area such as:
+
+- Top Best-Selling Product
+- Least-Selling Products
+- Profitability Analysis
+- Demand Analysis by Category
+
+🔷 Inventory Analysis Dashboard
+
+The Inventory Analysis Dashboard provides an overview of stock levels, inventory turnover, and inventory management across stores.
+It analyzes areas such as:
+
+- Low Stock Status
+- Inventory Turnover by Store
+- Supplier Performance – Out-of-Stock Products
+- Stock-in vs Sales by Store
+
+🔷 Revenue Analysis Dashboard
+
+The Revenue Analysis Dashboard provides an overview of revenue trends, discounts, payment methods, and profitability across different categories.
+It analyzes areas such as:
+
+- Daily Revenue Trend
+- Monthly Revenue Trend
+- Discount Impact on Margin
+- Discount Impact on Order Volume
+- Payment Method Share Over Time
+- Profit Analysis by Category
+
 
 ## 📂 Project Structure
 
@@ -151,6 +194,15 @@ Retail-Sales-Analytics/
 │
 ├── .gitignore
 └── README.md
+
+⭐ Conclusion
+This project demonstrates an end-to-end retail sales analytics workflow, starting from raw data cleaning and preparation to SQL analysis and interactive Power BI visualization.
+The project provides a structured approach to understanding sales performance, customer behavior, product performance, and inventory-related business insights.
+
+👩‍💻 Author
+Kiran 
+Aspiring Data Analyst
+Skills: Python | SQL | Power BI | Excel | Github | Data Analytics
 
 
 
