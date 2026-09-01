@@ -1,6 +1,7 @@
 # Ritail_Sales_Analytics
 Power BI Sales Analytics Dashboard with insights into revenue, customers, inventory, sales trends and profitability.
 
+
 ## 📌 Project Overview
 
 Retail Sales Analytics is an end-to-end data analytics project developed to analyze retail sales performance, customer behavior, product performance, and business trends. The project covers the complete analytics process, starting from raw data preparation and cleaning to SQL analysis and an interactive Power BI dashboard.
@@ -42,6 +43,7 @@ The main objectives of this project are:
 
 **Raw Data → Data Cleaning → Cleaned Data → SQL Analysis → Power BI Dashboard → Business Insights**
 
+
 1️⃣ Raw Data
 
 The original retail datasets are stored in the output folder.
@@ -55,6 +57,7 @@ The raw data contains information related to:
 - Suppliers
 - Inventory Movement
 The raw files are kept unchanged for reference and reproducibility.
+
 
 2️⃣ Data Cleaning Using Python
 
@@ -70,12 +73,15 @@ The cleaning process includes:
 The Python notebook used for the cleaning process is:
 notebooks/Retail_Sales.ipynb
 
+
 3️⃣ Cleaned Data
 
 After the data cleaning process, the cleaned datasets were stored separately in the cleaned_data folder.
 These cleaned files were used for further SQL analysis and Power BI reporting.
 
+
 4️⃣ SQL Analysis
+
 SQL was used to perform business analysis on the cleaned retail sales data.
 The analysis includes:
 
@@ -92,6 +98,7 @@ The analysis includes:
 The SQL queries are available in:
 SQL/Sales Analysis.sql
 
+
 5️⃣ Power BI Dashboard
 
 Power BI was used to create an interactive dashboard for monitoring retail business performance.
@@ -102,6 +109,7 @@ dashboard/
 📊 Dashboard Analysis
 
 There are six major dashboard Analysis:
+
 
 🔷 Executive Dashboard
 
@@ -117,6 +125,7 @@ It analyzes areas such as:
 - Monthly sales growth
 - Store-wise sales and order performance
 
+
 🔷 Customer Analysis Dashboard
 
 The Customer Analysis Dashboard focuses on understanding customer behavior and purchasing patterns.
@@ -126,6 +135,7 @@ It analyzes areas such as:
 - New vs returning customers
 - Average Order Value (AOV) by customer segment
 - Purchase frequency analysis
+
 
 🔷 Sales Analysis Dashboard
 
@@ -138,6 +148,7 @@ It analyzes areas such as:
 - Comparison of sales performance over time
 - Day-of-week sales patterns
 
+
 🔷 Product Performance Analysis Dashboard
 
 The Product Performance Analysis Dashboard Provides an overview of product sales, profitability and demand patterns.
@@ -148,6 +159,7 @@ It analyzes area such as:
 - Profitability Analysis
 - Demand Analysis by Category
 
+
 🔷 Inventory Analysis Dashboard
 
 The Inventory Analysis Dashboard provides an overview of stock levels, inventory turnover, and inventory management across stores.
@@ -157,6 +169,7 @@ It analyzes areas such as:
 - Inventory Turnover by Store
 - Supplier Performance – Out-of-Stock Products
 - Stock-in vs Sales by Store
+
 
 🔷 Revenue Analysis Dashboard
 
@@ -169,6 +182,7 @@ It analyzes areas such as:
 - Discount Impact on Order Volume
 - Payment Method Share Over Time
 - Profit Analysis by Category
+  
 
 ⭐ Conclusion
 
