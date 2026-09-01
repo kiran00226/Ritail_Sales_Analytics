@@ -177,9 +177,13 @@ The project provides a structured approach to understanding sales performance, c
 
 
 👩‍💻 Author
+
 Kiran 
+
 Aspiring Data Analyst
-Skills: Python | SQL | Power BI | Excel | Github | Data Analytics  
+
+Skills: Python | SQL | Power BI | Excel | Github | Data Analytics 
+
 
 
 ## 📂 Project Structure
