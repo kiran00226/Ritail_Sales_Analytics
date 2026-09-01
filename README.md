@@ -170,6 +170,17 @@ It analyzes areas such as:
 - Payment Method Share Over Time
 - Profit Analysis by Category
 
+⭐ Conclusion
+
+This project demonstrates an end-to-end retail sales analytics workflow, starting from raw data cleaning and preparation to SQL analysis and interactive Power BI visualization.
+The project provides a structured approach to understanding sales performance, customer behavior, product performance, and inventory-related business insights.
+
+
+👩‍💻 Author
+Kiran 
+Aspiring Data Analyst
+Skills: Python | SQL | Power BI | Excel | Github | Data Analytics  
+
 
 ## 📂 Project Structure
 
@@ -197,19 +208,10 @@ Retail-Sales-Analytics/
 ├── .gitignore
 └── README.md
 
-```text
 
 
-⭐ Conclusion
-
-This project demonstrates an end-to-end retail sales analytics workflow, starting from raw data cleaning and preparation to SQL analysis and interactive Power BI visualization.
-The project provides a structured approach to understanding sales performance, customer behavior, product performance, and inventory-related business insights.
 
 
-👩‍💻 Author
-Kiran 
-Aspiring Data Analyst
-Skills: Python | SQL | Power BI | Excel | Github | Data Analytics
 
 
 
