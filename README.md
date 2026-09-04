@@ -158,7 +158,12 @@ It analyzes areas such as:
 - High Frequency Sales And Category wise average transaction value
 - Comparison of sales performance over time
 - Day-of-week sales patterns
-
+  
+## DASHBOARD
+<a href =https://github.com/kiran00226/Ritail_Sales_Analytics/blob/9f76f1142ed6c277d45a7c2f4f1ec594115b4758/Docs/Sales%20Dashboard.png>
+Click Here</a>
+<br>
+<br>
 
 🔷 Product Performance Analysis Dashboard
 
