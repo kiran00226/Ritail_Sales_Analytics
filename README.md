@@ -97,7 +97,8 @@ The analysis includes:
 - Aggregation and filtering
 - Business performance analysis
 The SQL queries are available in:
-SQL/Sales Analysis.sql
+
+<a href="https://github.com/kiran00226/Ritail_Sales_Analytics/blob/2679b646a857c8eabb379f34d8e0f0add446d75a/Sales_Analysis.sql"> Click Here</a>
 
 
 5️⃣ Power BI Dashboard
