@@ -128,7 +128,8 @@ It analyzes areas such as:
 - Store-wise sales and order performance
 
 ## DASHBOARD
-<img width="1409" height="800" alt="POWER BI DASHBOARD IMAGE" src=https://github.com/kiran00226/Ritail_Sales_Analytics/blob/ca8564c36802021a43cc38bcf9ae2e1f41604c12/Docs/Executive%20Dashboard.png />
+<a href =https://github.com/kiran00226/Ritail_Sales_Analytics/blob/ca8564c36802021a43cc38bcf9ae2e1f41604c12/Docs/Executive%20Dashboard.png>Click Here</a>
+
 <br> 
 
 🔷 Customer Analysis Dashboard
