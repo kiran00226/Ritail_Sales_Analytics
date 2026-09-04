@@ -113,7 +113,7 @@ dashboard/
 There are six major dashboard Analysis:
 
 
-🔷 Executive Dashboard
+<h4>🔷 Executive Dashboard</h4>
 
 The Executive Dashboard focuses on providing an overall view of the retail business performance.
 It analyzes areas such as:
@@ -132,7 +132,7 @@ It analyzes areas such as:
 
 <br> 
 
-🔷 Customer Analysis Dashboard
+<h4>🔷 Customer Analysis Dashboard</h4>
 
 The Customer Analysis Dashboard focuses on understanding customer behavior and purchasing patterns.
 It analyzes areas such as:
@@ -148,7 +148,7 @@ Click Here</a>
 <br>
 <br>
 
-🔷 Sales Analysis Dashboard
+<h4>🔷 Sales Analysis Dashboard</h4>
 
 The Sales Analytics Dashboard focuses on understanding overall sales performance and identifying important sales trends.
 It analyzes areas such as:
@@ -165,7 +165,7 @@ Click Here</a>
 <br>
 <br>
 
-🔷 Product Performance Analysis Dashboard
+<h4>🔷 Product Performance Analysis Dashboard</h4>
 
 The Product Performance Analysis Dashboard Provides an overview of product sales, profitability and demand patterns.
 It analyzes area such as:
@@ -181,7 +181,7 @@ Click Here</a>
 <br>
 <br>
 
-🔷 Inventory Analysis Dashboard
+<h4>🔷 Inventory Analysis Dashboard</h4>
 
 The Inventory Analysis Dashboard provides an overview of stock levels, inventory turnover, and inventory management across stores.
 It analyzes areas such as:
@@ -197,7 +197,7 @@ Click Here</a>
 <br>
 <br>
 
-🔷 Revenue Analysis Dashboard
+<h4>🔷 Revenue Analysis Dashboard</h4>
 
 The Revenue Analysis Dashboard provides an overview of revenue trends, discounts, payment methods, and profitability across different categories.
 It analyzes areas such as:
@@ -215,13 +215,13 @@ Click Here</a>
 <br>
 <br>  
 
-⭐ Conclusion
+<h2>⭐ Conclusion</h2>
 
 This project demonstrates an end-to-end retail sales analytics workflow, starting from raw data cleaning and preparation to SQL analysis and interactive Power BI visualization.
 The project provides a structured approach to understanding sales performance, customer behavior, product performance, and inventory-related business insights.
 
 
-👩‍💻 Author
+<h3>👩‍💻 Author</h3>
 
 Kiran 
 
