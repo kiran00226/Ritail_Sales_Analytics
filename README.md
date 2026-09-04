@@ -174,7 +174,12 @@ It analyzes area such as:
 - Least-Selling Products
 - Profitability Analysis
 - Demand Analysis by Category
-
+  
+## DASHBOARD
+<a href =https://github.com/kiran00226/Ritail_Sales_Analytics/blob/a6a42058aed33bdd285c8a3c90a1adaae3b6b320/Docs/Product%20Dashboard.png>
+Click Here</a>
+<br>
+<br>
 
 🔷 Inventory Analysis Dashboard
 
