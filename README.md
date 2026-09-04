@@ -71,7 +71,8 @@ The cleaning process includes:
 - Validating records
 - Preparing analysis-ready datasets
 The Python notebook used for the cleaning process is:
-notebooks/Retail_Sales.ipynb
+
+<a href="https://github.com/kiran00226/Ritail_Sales_Analytics/blob/8cc126496d2efd01fc4e74b6447a1447d9c9be71/Retail_Sales.ipynb"> Click Here</a>
 
 
 3️⃣ Cleaned Data
