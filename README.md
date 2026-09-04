@@ -125,6 +125,8 @@ It analyzes areas such as:
 - Monthly sales growth
 - Store-wise sales and order performance
 
+## DASHBOARD
+<img width="1409" height="800" alt="POWER BI DASHBOARD IMAGE" src=https://github.com/kiran00226/DATA--ANALYST/blob/main/elc%20analyst%20pic.png />
 
 🔷 Customer Analysis Dashboard
 
