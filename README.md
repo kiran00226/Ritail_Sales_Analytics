@@ -208,7 +208,12 @@ It analyzes areas such as:
 - Discount Impact on Order Volume
 - Payment Method Share Over Time
 - Profit Analysis by Category
-  
+ 
+## DASHBOARD
+<a href =https://github.com/kiran00226/Ritail_Sales_Analytics/blob/a1ad58c97581cf4820eaebd4f12b13a3968ddb8e/Docs/Revenue%20Dashboard.png>
+Click Here</a>
+<br>
+<br>  
 
 ⭐ Conclusion
 
