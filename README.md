@@ -108,7 +108,7 @@ The dashboard focuses on important business metrics and provides interactive ana
 The Power BI dashboard file will be available in:
 dashboard/
 
-📊 Dashboard Analysis
+<h2>📊 Dashboard Analysi</h2>
 
 There are six major dashboard Analysis:
 
