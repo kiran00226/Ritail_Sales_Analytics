@@ -190,7 +190,12 @@ It analyzes areas such as:
 - Inventory Turnover by Store
 - Supplier Performance – Out-of-Stock Products
 - Stock-in vs Sales by Store
-
+ 
+## DASHBOARD
+<a href =https://github.com/kiran00226/Ritail_Sales_Analytics/blob/01ef31b01890cb2c97030723e46dfb42768ef7dc/Docs/Inventory%20Dashboard.png>
+Click Here</a>
+<br>
+<br>
 
 🔷 Revenue Analysis Dashboard
 
