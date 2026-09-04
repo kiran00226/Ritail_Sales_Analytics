@@ -146,6 +146,7 @@ It analyzes areas such as:
 <a href =https://github.com/kiran00226/Ritail_Sales_Analytics/blob/b6f41fdf4d5cd98f8002abc8a95f927b3add6b89/Docs/Customer%20Dashboard.png>
 Click Here</a>
 <br>
+<br>
 
 🔷 Sales Analysis Dashboard
 
