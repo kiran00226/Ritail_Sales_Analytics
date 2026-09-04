@@ -127,7 +127,7 @@ It analyzes areas such as:
 
 ## DASHBOARD
 <img width="1409" height="800" alt="POWER BI DASHBOARD IMAGE" src=https://github.com/kiran00226/Ritail_Sales_Analytics/blob/ca8564c36802021a43cc38bcf9ae2e1f41604c12/Docs/Executive%20Dashboard.png />
-
+##
 
 🔷 Customer Analysis Dashboard
 
