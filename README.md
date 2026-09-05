@@ -58,6 +58,8 @@ The raw data contains information related to:
 - Inventory Movement
 The raw files are kept unchanged for reference and reproducibility.
 
+<a href="https://github.com/kiran00226/Ritail_Sales_Analytics/tree/d040df86f9d8513813981a47ccc08bb09d2f8c20/output"> Click Here</a>
+
 
 2️⃣ Data Cleaning Using Python
 
