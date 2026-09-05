@@ -82,6 +82,7 @@ The Python notebook used for the cleaning process is:
 After the data cleaning process, the cleaned datasets were stored separately in the cleaned_data folder.
 These cleaned files were used for further SQL analysis and Power BI reporting.
 
+<a href="https://github.com/kiran00226/Ritail_Sales_Analytics/tree/e99ee2a31e74490dc3a4da91aa456ffdbc82210a/cleaned%20file"> Click Here</a>
 
 4️⃣ SQL Analysis
 
